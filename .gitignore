@@ -1,0 +1,83 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.log
+*.vspscc
+*.vssscc
+*.zip
+*.7z
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Oo]bj/
+[Bb]in/
+
+# NuGet packages
+packages/
+*.nupkg
+*.pdb
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Build results
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Oo]bj/
+[Bb]in/
+
+# Resharper cache/temp folders
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+
+# CodeRush personal settings
+*.crpersonal
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# TFS 2012 Local Workspace
+$tf/
+
+# Guidance Automation Toolkit
+*.gpState
+
+# ReSharper is a .NET development tool
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/bin/
+**/obj/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Oo]bj/
+[Bb]in/
