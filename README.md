@@ -26,5 +26,7 @@ use minimal APIs instead of a Controller
 3. Add an Id to GameMatch and add a MatchState with value: WaitingForOpponent, MatchFound and GameReady
 4. Please also change the /match api code
 5. If the player is already in a match, return that match
+6. Serialize the MatchState as a string instead of a number
+7. If an openMatch is found, switch the MatchState to MatchFound
 6. Move the matching logic into another class and use DI to inject into the endpoint.
 7. Make MatchService use a interface
